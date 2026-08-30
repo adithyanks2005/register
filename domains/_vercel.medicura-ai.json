@@ -1,10 +1,10 @@
 {
-    "owner": {
-        "username": "adithyanks2005",
-        "email": "ksadithyan2021@gmail.com",
-        "discord": "_adhi_2005"
-    },
-    "records": {
-        "TXT": "vc-domain-verify=medicura-ai.is-a.dev"
-    }
+  "owner": {
+    "username": "adithyanks2005",
+    "email": "ksadithyan2021@gmail.com",
+    "discord": "_adhi_2005"
+  },
+  "records": {
+    "TXT": "vc-domain-verify=medicura-ai.is-a.dev"
+  }
 }
